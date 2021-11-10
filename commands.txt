@@ -1,0 +1,2 @@
+bin/kafka-topics.sh --bootstrap-server=localhost:9092 --create --topic=TargetTopic --partitions=1 --replication-factor=1
+bin/kafka-topics.sh --describe --topic=TargetTopic --bootstrap-server=localhost:9092

@@ -1,2 +1,3 @@
 # kafka
-Various Kafka examples and tests
+
+Set of example apps for interacting with Kafka
